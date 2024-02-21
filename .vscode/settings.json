@@ -5,9 +5,9 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "Postgres Local ",
             "database": "chinook",
-            "username": "postgres"
+            "username": "postgres",
+            "name": "local postgres"
         }
     ]
 }
